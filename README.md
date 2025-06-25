@@ -23,4 +23,6 @@ BookSplash (aka Booksky) is a beautiful and simple book management application m
 
 ---
 
+## Live Demo
+Check out the deployed page here: **https://book-splash.vercel.app/**
 Note: This app works entirely in the browser (no backend/database). Refreshing will reset all books.
